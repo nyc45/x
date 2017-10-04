@@ -1,7 +1,7 @@
 # zenity
 
-***Question Dialog***
-> `zenity --question --title="Question Title" --text "Whats your answer?"`
+## Question Dialog
+`zenity --question --title="Question Title" --text "Whats your answer?"`
 
 
 
