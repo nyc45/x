@@ -1,4 +1,4 @@
-ZENITY(1)                   General Commands Manual                  ZENITY(1)
+## ZENITY(1)                   General Commands Manual                  ZENITY(1)
 
 NAME
        zenity - display GTK+ dialogs
