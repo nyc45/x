@@ -2,4 +2,4 @@
 
 zenity --question --title="Linuxaria introduction to Zenity" --text "Are you sure you want to shutdown?"
 
-https://help.gnome.org/users/zenity/stable/
+https://help.gnome.org/users/zenity/stable/	
